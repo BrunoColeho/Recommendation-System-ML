@@ -3,7 +3,7 @@
 ## Description
 This project simulates a Book Recommendation System wich uses de kneighboors method. This code can be used in another Recommendation Systems aswell
 
-## Funcionalidades
+## Functionalities
 - Customized recommendation based on the choices and ratings,
 
 ## Techonologies
