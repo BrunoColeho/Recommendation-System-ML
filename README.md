@@ -18,5 +18,5 @@ This project simulates a Book Recommendation System wich uses de kneighboors met
 
 
 ## Importante Notes
-All coded in Google Colab. If you want acces to the database used, feel free to e-mail me: cesar.coelho.bruno@gmail.com
+All coded in Google Colab. If you want access to the database used, feel free to e-mail me: cesar.coelho.bruno@gmail.com
 
